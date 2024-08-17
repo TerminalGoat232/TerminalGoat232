@@ -2,8 +2,8 @@
 <!--![TerminalGoat232's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerminalGoat232)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGoat232)
 
-🌱 I’m currently learning C, C++ (this lang sucks ass), x86 asm, Rust, Godot & GDscript
-📫 How to reach me: No.
+-🌱 I’m currently learning C, C++ (this lang sucks ass), x86 asm, Rust, Godot & GDscript
+-📫 How to reach me: No.
 <!--
 ⚡ Fun fact: Classified as an under-average programmer
 - 👯 I’m looking to collaborate on ...
