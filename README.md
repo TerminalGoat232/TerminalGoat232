@@ -13,3 +13,5 @@
 - 😄 Pronouns: ...
 
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+gd+cologne)](https://git.io/typing-svg)
