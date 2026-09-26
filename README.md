@@ -14,4 +14,4 @@
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+gd+cologne)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=sample+text)](https://git.io/typing-svg)
